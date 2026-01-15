@@ -29,3 +29,6 @@ pip install -r requirements.txt
 # Rodar a aplicação
 streamlit run app.py
 ```
+
+----(no mac)
+python3 -m streamlit run src/app.py 
